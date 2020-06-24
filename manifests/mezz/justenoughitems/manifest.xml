@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mod handle="mezz/justenoughitems" name="Just Enough Items">
+
+    <scm>
+        <connection>scm:git:https://github.com/mezz/JustEnoughItems.git</connection>
+        <developerConnection>scm:git:git@github.com:mezz/JustEnoughItems.git</developerConnection>
+        <url>https://github.com/mezz/JustEnoughItems</url>
+    </scm>
+
+</mod>
