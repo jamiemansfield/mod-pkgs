@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<mod handle="mezz/justenoughitems" name="Just Enough Items">
+<mod>
+    <group>mezz</group>
+    <artifact>justenoughitems</artifact>
+    <name>Just Enough Items</name>
+
+    <!-- todo: maybe have a description.md file to contain this? -->
+    <description>
+        Just Enough Items is an **item** and **recipe** viewing mod for Minecraft,
+        with a focus on stablility, performance, and ease-of-use.
+
+        This means:
+        - just items and recipes
+        - clean API for developers
+        - not a coremod - no dependencies other than Forge
+    </description>
+
+    <!-- todo: maybe licenses should be accociated with version -->
+    <licenses>
+        <license>MIT License</license>
+    </licenses>
 
     <scm>
         <connection>scm:git:https://github.com/mezz/JustEnoughItems.git</connection>
@@ -7,4 +26,8 @@
         <url>https://github.com/mezz/JustEnoughItems</url>
     </scm>
 
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/mezz/JustEnoughItems/issues</url>
+    </issueManagement>
 </mod>
