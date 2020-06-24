@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<version>
+    <minecraft>1.15.2</minecraft>
+    <name>6.0.2.11</name>
+
+    <description>
+        - [Increase time for StaleBot to mark issues stale](https://github.com/mezz/JustEnoughItems/commit/aab808d2161a91b870c5ad3139500157d4350246) - James Mitchell
+        - [Minor cleanup to build.gradle](https://github.com/mezz/JustEnoughItems/commit/60ef176efa63b0266ce53c3248e564b08f50a5b3) - mezz
+        - [Update Japanese translation (#1984)](https://github.com/mezz/JustEnoughItems/commit/36b48969836afaacb3ef148a4cb20684ec22fe99) - Kina
+        - [Update Polish translation (#1982)](https://github.com/mezz/JustEnoughItems/commit/b287dbda8b886c709a8555d5498fc18d3b43825a) - Greg-21
+        - [Fix Cosmetic Error not showing (#1983)](https://github.com/mezz/JustEnoughItems/commit/c8d38b4ba28245dc46791f457061c72aaa48af01) - Darkere
+        - [Fix ghost ingredient target and hover missing alpha values (#1985)](https://github.com/mezz/JustEnoughItems/commit/1c9a063b4b6f29c877470879c32d661f66a7c2ba) - Richard Freimer 
+    </description>
+
+    <file>
+        <download>https://media.forgecdn.net/files/2985/517/jei-1.15.2-6.0.2.11.jar</download>
+        <sha256>7b4316c7f964a558d97c6347d96a32c2b0e9c0e37d3976566ca104bb66acd207</sha256>
+        <size>704548</size>
+    </file>
+</version>
