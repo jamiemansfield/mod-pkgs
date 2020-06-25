@@ -3,7 +3,7 @@
     <type>mod</type>
     
     <group>mezz</group>
-    <artifact>justenoughitems</artifact>
+    <artifact>JustEnoughItems</artifact>
     <name>Just Enough Items</name>
 
     <!-- todo: maybe have a description.md file to contain this? -->
