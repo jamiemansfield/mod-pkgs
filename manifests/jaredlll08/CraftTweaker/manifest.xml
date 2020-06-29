@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mod>
+    <type>mod</type>
+    
+    <group>jaredlll08</group>
+    <artifact>CraftTweaker</artifact>
+    <name>CraftTweaker</name>
+
+    <!-- todo: maybe have a description.md file to contain this? -->
+    <description>
+         Tweak your minecraft experience.
+    </description>
+
+    <developers>
+        <developer>
+            <id>jaredlll08</id>
+            <name>Jared</name>
+            <url>https://github.com/jaredlll08</url>
+        </developer>
+    </developers>
+
+    <!-- todo: maybe licenses should be associated with version -->
+    <licenses>
+        <license>MIT License</license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:https://github.com/jaredlll08/CraftTweaker.git</connection>
+        <developerConnection>scm:git:git@github.com:jaredlll08/CraftTweaker.git</developerConnection>
+        <url>https://github.com/jaredlll08/CraftTweaker</url>
+    </scm>
+
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/jaredlll08/CraftTweaker/issues</url>
+    </issueManagement>
+
+    <!-- Versions -->
+    <include type="version" src="1.15/6.0.0.24.xml">
+</mod>
