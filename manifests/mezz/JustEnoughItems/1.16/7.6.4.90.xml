@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<version>
+    <minecraft>1.16.5</minecraft>
+    <name>7.6.4.90</name>
+
+    <description>
+        - [Update it_it.json (#2330)](https://github.com/mezz/JustEnoughItems/commit/9d68f03939f7723b3c3abd30ccc719025adc9010) - Masterlupo
+        - [Fix #2321 Input refactor version 2](https://github.com/mezz/JustEnoughItems/commit/2c8f0d250dae4ba638250625e3c1fa852215b037) - mezz
+        - [Improve GUI click handling](https://github.com/mezz/JustEnoughItems/commit/5097e3df0cc15dbc9d45195cf2bf3fde44c2a0ee) - mezz
+        - [Update sv_se.json (#2314)](https://github.com/mezz/JustEnoughItems/commit/3ce95b9fcc1cb5284fca2a84c3fe4f1655e71cab) - A. Regnander
+        - [Generalize recipe name callback to work for all ingredient types (#2313)](https://github.com/mezz/JustEnoughItems/commit/0e58723f360d6a329dc15be21bd467e47b79affe) - Sara Freimer
+        - [Minor cleanup and error handling improvements](https://github.com/mezz/JustEnoughItems/commit/221390c73e88bd8e1852e1793c4d0d2e291039a6) - mezz 
+    </description>
+
+    <file>
+        <download>https://media.forgecdn.net/files/3295/418/jei-1.16.5-7.6.4.90.jar</download>
+        <sha256>5d2e3863ae6ab7495683d22e111224c4d1fad7781997dd0584b5a8de476d6ded</sha256>
+        <size>796671</size>
+    </file>
+</version>

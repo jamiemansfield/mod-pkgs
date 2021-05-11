@@ -43,4 +43,5 @@
 
     <!-- Versions -->
     <include type="version" src="1.15/6.0.2.11.xml">
+    <include type="version" src="1.16/7.6.4.90.xml">
 </mod>
